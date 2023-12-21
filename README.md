@@ -24,7 +24,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Twitter](https://twitter.com/your-username)
+- [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/abdul-qaadir-88baa8254/))
+- [Facebook](https://web.facebook.com/Qaadir0124)
 
 Feel free to customize this template with your own information, projects, and style preferences. You can also add badges, additional sections, or any other content that you think represents you well.
